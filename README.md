@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Omar Soub
+## *Hi there 👋 I'm Omar Soub*
 
 *I'm a passionate **Data Analyst** specializing in **Data Analysis and Machine learning**. I enjoy building **Projects** and solving **Problems**.*
 
