@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Omar Soub
 
-I'm a passionate **Data Analyst** specializing in **Data Analysis and Machine learning**. I enjoy building **Projects** and solving **[Key Problems You Tackle]**. Currently exploring **[What You’re Learning]**, and always on the hunt for opportunities to collaborate on **[What Collaborations You Value]**.
+I'm a passionate **Data Analyst** specializing in **Data Analysis and Machine learning**. I enjoy building **Projects** and solving **Problems**.
 
 Nice to meet you—feel free to check out my repositories or reach out if you'd like to work together!
 
