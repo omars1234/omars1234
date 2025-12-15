@@ -12,7 +12,7 @@
 
 
 
-#  <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/f1c5a313-d110-4572-90bc-677e910b2063" /> Certificates:  
+#  <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/f1c5a313-d110-4572-90bc-677e910b2063" />  Certificates:  
 
 [Google Certificate for Data Analysis](https://www.credly.com/badges/84921e4e-c3bd-4154-aebf-39a120d28d45/public_url)\
 [Supervised Machine Learning: Regression and Classification certificate By DeepLearning.AI](https://www.coursera.org/account/accomplishments/verify/KBCTITFOWLUV?utm_source%3Dandroid%26utm_medium%3Dcertificate%26utm_content%3Dcert_image%26utm_campaign%3Dsharing_cta%26utm_product%3Dcourse)\
