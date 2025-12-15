@@ -11,6 +11,7 @@
 
 <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/957131b4-f246-4422-993d-baf940cf3386" />
 
+<img src="[raw.githubusercontent.com](https://github.com/omars1234/omars1234/blob/313b60b76a075b8b0991d7a5cd8f6fcf8eaebf26/certificate.png)" alt="certificate icon" width="10" height="10">
 
 # ![Certificate](https://github.com/omars1234/omars1234/blob/313b60b76a075b8b0991d7a5cd8f6fcf8eaebf26/certificate.png) Certificates:  
 
