@@ -11,9 +11,9 @@
 
 
 **Languages:** Python, R, SQL  
-**Libraries:** pandas, NumPy, scikit-learn, XGBoost  
-**Visualization:** Power BI, Tableau, Matplotlib, Seaborn  
-**Databases:** PostgreSQL  
+**Libraries:** pandas, NumPy, scikit-learn, XGBoost ...
+**Visualization:** Power BI, Tableau, Matplotlib, Seaborn
+**Databases:** microsoft sql server  
 **Tools:** Git, Jupyter Notebook, Streamlit
 
 
