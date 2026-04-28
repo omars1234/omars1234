@@ -33,6 +33,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=omars1234&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=omars1234&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=omars1234&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omars1234&show_icons=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
